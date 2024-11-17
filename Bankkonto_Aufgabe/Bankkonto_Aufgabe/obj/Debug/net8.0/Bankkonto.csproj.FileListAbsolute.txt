@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\bin\Debug\net8.0\Bankkonto.exe
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\bin\Debug\net8.0\Bankkonto.deps.json
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\bin\Debug\net8.0\Bankkonto.runtimeconfig.json
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\bin\Debug\net8.0\Bankkonto.dll
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\bin\Debug\net8.0\Bankkonto.pdb
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.dll
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\refint\Bankkonto.dll
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.pdb
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\Bankkonto.genruntimeconfig.cache
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto_Aufgabe\obj\Debug\net8.0\ref\Bankkonto.dll

@@ -1,0 +1,6 @@
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto.tests\bin\Debug\net8.0\CoverletSourceRootsMapping_BankkontoTests
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto.tests\obj\Debug\net8.0\BankkontoTests.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto.tests\obj\Debug\net8.0\BankkontoTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto.tests\obj\Debug\net8.0\BankkontoTests.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto.tests\obj\Debug\net8.0\BankkontoTests.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Bankkonto_Aufgabe\Bankkonto.tests\obj\Debug\net8.0\BankkontoTests.csproj.CoreCompileInputs.cache
