@@ -47,6 +47,14 @@ namespace Bank
             Console.WriteLine($"Das Konto {KontoNummer} wurde geschlossen.");
         }
 
+        public void Transferiere(Bankkonto zielKonto, decimal betrag)
+        {
+            if (betrag <= Guthaben)
+            {
+                Guthaben -= betrag;        // Betrag vom aktuellen Konto abziehen
+                zielKonto.ZahleEin(betrag); // Betrag auf das Zielkonto einzahlen
+            }
+        }
 
 
     }

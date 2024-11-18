@@ -1,10 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Bank;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Bank;
 
 namespace BankkontoTests
 {
@@ -27,7 +21,7 @@ namespace BankkontoTests
         }
 
         [TestMethod]
-        public void EinzahlenTest() 
+        public void EinzahlenTest()
         {
             //
             Bankkonto konto = new Bankkonto("12345", 1000);
@@ -96,6 +90,39 @@ namespace BankkontoTests
             // Assert
             Assert.AreEqual(0, konto.Guthaben);
         }
+
+        [TestMethod]
+        public void Transferiere_VerringertGuthabenUndErhoehtZielkonto_WennGuthabenAusreicht()
+        {
+            // Arrange
+            Bankkonto konto1 = new Bankkonto("12345", 1000);
+            Bankkonto konto2 = new Bankkonto("67890", 500);
+            decimal betrag = 300;
+
+            // Act
+            konto1.Transferiere(konto2, betrag);
+
+            // Assert
+            Assert.AreEqual(700, konto1.Guthaben); // Guthaben von Konto1 wird reduziert
+            Assert.AreEqual(800, konto2.Guthaben); // Guthaben von Konto2 wird erhöht
+        }
+
+        [TestMethod]
+        public void Transferiere_VeraendertNichts_WennGuthabenNichtAusreicht()
+        {
+            // Arrange
+            Bankkonto konto1 = new Bankkonto("12345", 1000);
+            Bankkonto konto2 = new Bankkonto("67890", 500);
+            decimal betrag = 1500; // Betrag größer als Guthaben von konto1
+
+            // Act
+            konto1.Transferiere(konto2, betrag);
+
+            // Assert
+            Assert.AreEqual(1000, konto1.Guthaben); // Guthaben von konto1 bleibt unverändert
+            Assert.AreEqual(500, konto2.Guthaben);  // Guthaben von konto2 bleibt unverändert
+        }
+
 
     }
 }

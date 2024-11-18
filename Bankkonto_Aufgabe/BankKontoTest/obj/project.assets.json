@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\BankKontoTest.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\BankKontoTest\\BankKontoTest.csproj",
       "projectName": "BankKontoTest",
-      "projectPath": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\BankKontoTest.csproj",
+      "projectPath": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\BankKontoTest\\BankKontoTest.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\BankKontoTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1039,8 +1039,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj": {
-              "projectPath": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj"
+            "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj": {
+              "projectPath": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj"
             }
           }
         }

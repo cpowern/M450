@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankkontoTests.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\BankkontoTests.cs",
+              "RelativeDocumentMoniker": "BankKontoTest\\BankkontoTests.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\BankkontoTests.cs",
+              "RelativeToolTip": "BankKontoTest\\BankkontoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:02:11.984Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -31,19 +44,6 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T18:28:18.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BankkontoTests.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\BankkontoTests.cs",
-              "RelativeDocumentMoniker": "BankKontoTest\\BankkontoTests.cs",
-              "ToolTip": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\BankKontoTest\\BankkontoTests.cs",
-              "RelativeToolTip": "BankKontoTest\\BankkontoTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:02:11.984Z",
               "EditorCaption": ""
             }
           ]

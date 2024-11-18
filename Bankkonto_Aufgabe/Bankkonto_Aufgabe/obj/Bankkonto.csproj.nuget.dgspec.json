@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj": {}
+    "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj": {
+    "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj",
         "projectName": "Bankkonto",
-        "projectPath": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj",
+        "projectPath": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\Bankkonto.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\source\\repos\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\source\\repos\\M450\\Bankkonto_Aufgabe\\Bankkonto_Aufgabe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BankKontoTest
-build_property.ProjectDir = C:\Users\nicol\source\repos\Bankkonto_Aufgabe\BankKontoTest\
+build_property.ProjectDir = C:\Users\nicol\source\repos\M450\Bankkonto_Aufgabe\BankKontoTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
